@@ -14,14 +14,14 @@ annotations:
     reference: ''
     span:
       start: 708
-      end: 2016
+      end: 2017
     note_ref: 5f080f947d0c4e87bb955bee077094f7
   5f080f947d0c4e87bb955bee077094f7:
     imgnum: 301
     reference: ''
     span:
-      start: 2018
-      end: 2465
+      start: 2019
+      end: 2466
 local_ids:
   76b4005b3cf54ecd94e1113ba9263ddb: 200000
   271bfba80a8a46f7b7ba69f88f649fd2: 200001
